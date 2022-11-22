@@ -1,6 +1,6 @@
 public class Medic extends Hero  {
     @Override
-    public void applySuperAbility() {System.out.println("cure everyone");
+    public void applySuperAbility() {System.out.println("Medic применил суперспособность  CURE ALL");
     }
 
     public int healPoint  = 100;
